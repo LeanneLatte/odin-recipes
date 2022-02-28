@@ -1,0 +1,27 @@
+
+
+body {
+    background-color: antiquewhite;
+    color: navy;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+    padding-left: 10px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+p {
+    padding:0 20px;
+}
+
+a {
+    color: blueviolet;
+}
